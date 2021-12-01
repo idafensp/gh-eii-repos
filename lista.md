@@ -1,2 +1,1 @@
-[idafensp](https://github.com/idafensp/github-eii)
-[pedro](https://github.com/idafensp/github-eii)
+[corsario85](https://github.com/corsario85/prueba-gh-eii)
