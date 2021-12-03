@@ -1,4 +1,5 @@
 [corsario85](https://github.com/corsario85/prueba-gh-eii)
+[OscarRicoRo](https://github.com/OscarRicoRo/github-eii)
 [KrishT97](https://github.com/KrishT97/gh-eii-repos)
 [JuanCarlosAcostaPeraba](https://github.com/JuanCarlosAcostaPeraba/github-taller-iniciacion)
 [HéctorWood](https://github.com/ImBlackWoody/gh-eii-repos.git)
