@@ -1,4 +1,5 @@
 [corsario85](https://github.com/corsario85/prueba-gh-eii)
+[XxMARRExX](https://github.com/XxMARRExX/gh-eii-repos)
 [OscarRicoRo](https://github.com/OscarRicoRo/github-eii)
 [KrishT97](https://github.com/KrishT97/gh-eii-repos)
 [JuanCarlosAcostaPeraba](https://github.com/JuanCarlosAcostaPeraba/github-taller-iniciacion)
@@ -10,3 +11,4 @@
 [Alvaroooooooo](https://github.com/Alvaroooooooo/prueba-gh-eii)
 [SullivanMG](https://github.com/SullivanMG/prueba-curso)
 [albbamartin](https://github.com/albbamartin/gh-eii-repos)
+[DaniielMG](https://github.com/DaniielMG/github1)
